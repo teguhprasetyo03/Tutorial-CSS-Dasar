@@ -1,0 +1,15 @@
+h1 {
+  font-family: Verdana, Arial, serif;
+  /* font-size: 2em; 1 em sama dengan 32px */
+  font-size: 10vh;
+  font-style: italic;
+  font-weight: small-caps;
+}
+
+p {
+  font-family: Impact, sans-serif;
+  font-size: 100%;
+  font-style: oblique;
+  font-weight: bold;
+  line-height: 40px;
+}
